@@ -4,4 +4,4 @@ This project estimates the volume change in tooth cavity before and after RCT pr
 
 Launch the project by adjusting the arguments in bash file: RCT_ANALYSIS.sh and running it in the command terminal. Make sure to correct the dataset values and directory paths in the arguments carefully!
 
-Please look into ipynb files for snaps of demo and links.txt for the intermediate image results. 
+Please look into ipynb files for snaps of demo and link.txt for the intermediate image results. 
